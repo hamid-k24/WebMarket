@@ -1,2 +1,3 @@
 About
-implement N-Tier Architecture (3-Tier Architecture) in a C# application With Unit Of Work in Repository Pattern.
+implement N-Tier Architecture (3-Tier Architecture) in a C# application With Unit Of Work in Repository Pattern..
+
