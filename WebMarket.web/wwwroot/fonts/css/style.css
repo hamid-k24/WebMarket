@@ -1,0 +1,30 @@
+@import url(fontIran.css);/*لینک فایل که وظیفه بارگذاریفونت ها را برعهده دارد*/
+body {
+    font-family: Sans !important;
+    font-weight : 300;
+    direction: rtl;
+    background-color : #E2E2E2;
+    margin : 0;
+}
+
+h1, h2, h3, h4, h5, h6, input, textarea {
+    font-family: Sans !important ;
+}
+
+h1{
+    font-weight : bold;
+}
+
+.wrapper{
+    max-width : 900px;
+}
+.ltr{
+    direction : ltr;
+}
+.text-right{
+    text-align: right;
+}
+.text-center {
+    text-align : center;
+}
+
